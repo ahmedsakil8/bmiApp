@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ahmedsakil8/bmiApp/static/css/main.52126150.css",
+    "main.js": "/ahmedsakil8/bmiApp/static/js/main.72726afd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ahmedsakil8/bmiApp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/ahmedsakil8/bmiApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ahmedsakil8/bmiApp/index.html",
+    "main.52126150.css.map": "/ahmedsakil8/bmiApp/static/css/main.52126150.css.map",
+    "main.72726afd.js.map": "/ahmedsakil8/bmiApp/static/js/main.72726afd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ahmedsakil8/bmiApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52126150.css",
+    "static/js/main.72726afd.js"
+  ]
+}
